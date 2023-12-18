@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Driver where the main code loop happens in the game
  * @author Ken Douglas
  */
-public class textRPGDriver {
+public class TextRPGDriver {
     public static void main(String[] args){
         /*
         This is where the main driver method will make calls to the RPG methods who will
@@ -17,7 +17,11 @@ public class textRPGDriver {
         Add a memory system where if a player tries to play as dead charecter instead reads them their date of birth and death.
         */
 
+            Weapon test = new Weapon();
 
+            test.createWeapon();
+
+            test.createWeapon();
 
 
     

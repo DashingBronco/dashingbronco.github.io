@@ -3,7 +3,7 @@ package textrpg;
  * Interface for the player
  * @author Ken Douglas
  */
-public interface playerInterface {
+public interface PlayerInterface {
 
     //Starting stats
     public final int DEFAULT_HEALTH = 100;
